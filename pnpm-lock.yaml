@@ -3,20 +3,20 @@ lockfileVersion: 5.4
 specifiers:
   '@innei-util/eslint-config-ts': 0.8.2
   '@innei-util/prettier': 0.8.2
-  '@innei/eslint-config-ts': ^0.9.2
-  '@types/node': ^18.0.0
-  bumpp: ^8.2.1
-  eslint: ^8.18.0
-  esno: ^0.16.3
-  husky: ^8.0.1
+  '@innei/eslint-config-ts': 0.9.2
+  '@types/node': 18.0.0
+  bumpp: 8.2.1
+  eslint: 8.18.0
+  esno: 0.16.3
+  husky: 8.0.1
   lint-staged: 12.5.0
-  pnpm: ^7.2.1
+  pnpm: 7.4.1
   prettier: 2.6.2
-  rimraf: ^3.0.2
-  typescript: ^4.7.4
-  unbuild: ^0.7.4
-  vite: ^2.9.12
-  vitest: ^0.15.1
+  rimraf: 3.0.2
+  typescript: 4.7.4
+  unbuild: 0.7.4
+  vite: 2.9.13
+  vitest: 0.15.2
 
 devDependencies:
   '@innei-util/eslint-config-ts': 0.8.2_typescript@4.7.4
@@ -1114,7 +1114,7 @@ packages:
     dev: true
 
   /concat-map/0.0.1:
-    resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=}
+    resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
     dev: true
 
   /consola/2.15.3:
