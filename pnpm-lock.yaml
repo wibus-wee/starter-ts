@@ -10,7 +10,7 @@ specifiers:
   esno: 0.16.3
   husky: 8.0.1
   lint-staged: 13.0.3
-  pnpm: 7.9.0
+  pnpm: 7.9.3
   prettier: 2.7.1
   rimraf: 3.0.2
   typescript: 4.7.4
@@ -21,14 +21,14 @@ specifiers:
 devDependencies:
   '@innei-util/eslint-config-ts': 0.8.2_typescript@4.7.4
   '@innei-util/prettier': 0.8.2
-  '@innei/eslint-config-ts': 0.9.4
+  '@innei/eslint-config-ts': 0.9.4_typescript@4.7.4
   '@types/node': 18.0.0
   bumpp: 8.2.1
   eslint: 8.22.0
   esno: 0.16.3
   husky: 8.0.1
   lint-staged: 13.0.3
-  pnpm: 7.9.0
+  pnpm: 7.9.3
   prettier: 2.7.1
   rimraf: 3.0.2
   typescript: 4.7.4
@@ -354,8 +354,10 @@ packages:
       - supports-color
     dev: true
 
-  /@innei/eslint-config-ts/0.9.4:
+  /@innei/eslint-config-ts/0.9.4_typescript@4.7.4:
     resolution: {integrity: sha512-T52M6omBVNP6CbRN0sWNf8TjEEocuPTSN+FnVUY7c1P8JfgOTH9PFOG8fEt59UZLxZEIjy26pHGDqATv9inGVA==}
+    peerDependencies:
+      typescript: '>=4'
     dependencies:
       '@typescript-eslint/eslint-plugin': 5.30.7_qyj44ugjsrhpebq7oqcx4vy2rm
       '@typescript-eslint/parser': 5.30.0_4rv7y5c6xz3vfxwhbrcxxi73bq
@@ -2951,8 +2953,8 @@ packages:
       pathe: 0.3.4
     dev: true
 
-  /pnpm/7.9.0:
-    resolution: {integrity: sha512-xkIVw73yJm/h5M4VvFIS5Q+gQCRDrp3r92g58PtcCK86aZCa7EQ6q6ivdfTAz0KsAVgloA6Anub28n6wju5v3w==}
+  /pnpm/7.9.3:
+    resolution: {integrity: sha512-0hpAD1vtILw0i9gTN4ffagnScWMW9/avfZIKllBUd++fAvCss+hVgPPDd0HS9XcOT675gid4H9esGkbLdaFy+w==}
     engines: {node: '>=14.6'}
     hasBin: true
     dev: true
