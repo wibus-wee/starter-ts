@@ -58,7 +58,7 @@
     "@innei-util/eslint-config-ts": "0.8.2",
     "@innei-util/prettier": "0.8.2",
     "@innei/eslint-config-ts": "0.9.10",
-    "@types/node": "18.15.10",
+    "@types/node": "18.15.13",
     "bumpp": "8.2.1",
     "eslint": "8.40.0",
     "esno": "0.16.3",
