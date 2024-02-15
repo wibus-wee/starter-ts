@@ -10,7 +10,7 @@ specifiers:
   esno: 0.16.3
   husky: 8.0.3
   lint-staged: 13.0.4
-  pnpm: 7.17.1
+  pnpm: 7.33.7
   prettier: 2.8.7
   rimraf: 3.0.2
   typescript: 4.9.5
@@ -28,7 +28,7 @@ devDependencies:
   esno: 0.16.3
   husky: 8.0.3
   lint-staged: 13.0.4
-  pnpm: 7.17.1
+  pnpm: 7.33.7
   prettier: 2.8.7
   rimraf: 3.0.2
   typescript: 4.9.5
@@ -3379,8 +3379,8 @@ packages:
       pathe: 1.0.0
     dev: true
 
-  /pnpm/7.17.1:
-    resolution: {integrity: sha512-O76jPxzoeja81Z/8YyTfuXt+f7qkpsyEJsNBreWYBLHY5rJkjvNE/bIUGQ2uD/rcYPEtmrZZYox21OjAMC9EGw==}
+  /pnpm/7.33.7:
+    resolution: {integrity: sha512-ev4kEGQrOcaY30baTOXHIxpczjYGmNafjPj0IlfUCz5D8jEFOwe43oSf1P+/SnH/V7g1E3d3o1I4jz09p0cgDg==}
     engines: {node: '>=14.6'}
     hasBin: true
     dev: true
